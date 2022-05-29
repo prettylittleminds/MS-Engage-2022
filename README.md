@@ -34,6 +34,8 @@ This is my submission for the Microsoft Engage 2022 mentorship, called "MaskedMa
 [androidstudio]:https://developer.android.com/studio
 [Super Fast Face SDK]: https://faceonlive.com
 
+### Link to the demo: https://youtu.be/bszf_rhaViA
+
 ## Before we get started
 - 👉  For now, the app is supported on only Android platform (arm64).
 
