@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210646683587",
+    "project_id": "masked-man-620bb",
+    "storage_bucket": "masked-man-620bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210646683587:android:b0a8589655adbc084ef776",
+        "android_client_info": {
+          "package_name": "com.masked.man"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210646683587-22ubtdifdv1prfqgck84dhts9fn3rhh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDRyFpCG8FOsMawR7iXpaJgGl7OppNjYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210646683587-22ubtdifdv1prfqgck84dhts9fn3rhh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
